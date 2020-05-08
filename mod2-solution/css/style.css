@@ -1,8 +1,6 @@
 		*{
 			box-sizing: border-box;
 		}
-
-		
 		@media(min-width: 992px){
 			.col-lg-1{
 				float: left;
@@ -62,8 +60,6 @@
 			font-size: 125%;
 			border-left: 1px solid black;
 			border-bottom: 1px solid black;
-			
-
 		}
 		#chicken{
 			background-color: green;
